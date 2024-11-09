@@ -19,6 +19,7 @@
           "options": {
             "outputPath": "dist/practice-program",
             "index": "src/index.html",
+             "baseHref": "/my_project/",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
